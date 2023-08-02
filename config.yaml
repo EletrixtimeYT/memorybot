@@ -1,0 +1,6 @@
+token: "MyToken" #Replace with your discord bot token (discord.dev)
+target_category_id: 45454545 #Replace with categorie id
+destination_channel_id: 5555 # The saving channel
+target_filename: "file.html" # The file target
+textstatut: "saving" # For text statut 
+delay: 60 #The delay of reactulisation (in second)
